@@ -30,7 +30,7 @@ const server = http.createServer((req, res) => {
       </style>
     </head>
     <body>
-      <h1>Welcome to My Node.js Server 🚀</h1>
+      <h1>Welcome to Madan Dhungel's Node.js Server 🚀</h1>
       <p>This is a simple sample page served from a Node.js HTTP server.</p>
       <p>Server running at <b>http://localhost:${port}</b></p>
     </body>
